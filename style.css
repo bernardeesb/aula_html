@@ -1,0 +1,15 @@
+body {
+    background-color: red;
+    font-size: 60;
+}
+div{ 
+        background-color: aqua;
+}
+
+div.legal{
+    background-color: aquamarine;
+}
+
+div#main p.intro{
+    background-color: blue;
+}
